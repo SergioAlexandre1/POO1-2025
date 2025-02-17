@@ -11,4 +11,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.mycompany.aula20250213.Aula20250213</exec.mainClass>
     </properties>
+    <name>Aula20250213v2</name>
 </project>
