@@ -4,7 +4,7 @@ public class CalculadoraDeNota {
     
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("Hello World!");
+        System.out.println("ALUNO");
         // Pelo menos 2 construtores.
         // Get/Set
         // Imprimir – Imprime os dados do aluno de forma formatada.
